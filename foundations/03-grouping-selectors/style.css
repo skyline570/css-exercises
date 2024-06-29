@@ -1,0 +1,16 @@
+#style.css 
+
+.simple {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.colored {
+    background-color: yellow;
+}
+
+.simple , .colored {
+    font-size: 28px;
+    font-family: Helvetica ,"Times New Roman",  sans-serif ;
+}
