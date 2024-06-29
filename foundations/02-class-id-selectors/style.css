@@ -1,0 +1,21 @@
+
+
+.cass {
+    background-color: rgb(230, 62, 62);
+    font-family: Verdana , "DejaVu Sans" , sans-serif ;
+}
+
+.but_cooler {
+    font-size: 32px;
+}
+
+#ID_1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#ID_2 {
+    background-color: rgb(29, 201, 29);
+    font-size: 24px;
+    font-weight: bold;
+}
